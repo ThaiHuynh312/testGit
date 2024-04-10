@@ -3,3 +3,4 @@ Toi la TH
 Toi rat dep trai
 Toi con hien lanh nua
 Toi con rat hai huoc
+/// ban qua tu luyen
